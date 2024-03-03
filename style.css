@@ -19,7 +19,7 @@
 }
 
 .logo {
-  background-image: url("amazon_logo.png");
+  background-image: url("transparent_2024-03-03T13-50-54.png");
   background-size: cover;
   height: 50px;
   width: 100px;
@@ -203,6 +203,7 @@ span {
 
 .box-content p {
   color: #007185;
+  cursor: pointer;
 }
 
 /*** footer ***/
